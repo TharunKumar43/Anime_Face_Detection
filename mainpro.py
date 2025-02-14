@@ -8,8 +8,8 @@ rf = Roboflow(api_key="oeNDFzKWWDyLjxNf0Cmp")
 project = rf.workspace().project("animefaces")
 model = project.version(2).model
 
-input_folder = "D:/Projects/Anime_Face_Detection/input"
-output_folder = "D:/Projects/Anime_Face_Detection/output"
+input_folder = "D:/Anime_Face_Detection/input"
+output_folder = "D:/Anime_Face_Detection/output"
 confidence_threshold = 40
 overlap_threshold = 30
   
