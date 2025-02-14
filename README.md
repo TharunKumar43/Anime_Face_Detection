@@ -40,4 +40,5 @@ Output :
 
 Notes :
       Ensure that your Roboflow API key is correct and that you have access to the animefaces project.
+      
       The script is set to use version 2 of the model. Update the script if a different version is needed.
