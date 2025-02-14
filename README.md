@@ -41,9 +41,9 @@ This project utilizes Roboflow's object detection API to detect anime faces in i
 ### Configuration:
 Modify the following variables in the script as needed:
     
-* input_folder = "D:/Projects/Anime_Face_Detection/input"
+* input_folder = "D:/Anime_Face_Detection/input"
 
-* output_folder = "D:/Projects/Anime_Face_Detection/output"
+* output_folder = "D:/Anime_Face_Detection/output"
       
 * confidence_threshold = 40  # Confidence threshold for predictions
       
